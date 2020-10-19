@@ -1,0 +1,16 @@
+{
+"companyName": "CSCI-599-Error-By-Night",
+"productName": "CSCI-599-Error-By-Night",
+"productVersion": "0.2",
+"dataUrl": "version2.data.unityweb",
+"wasmCodeUrl": "version2.wasm.code.unityweb",
+"wasmFrameworkUrl": "version2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
