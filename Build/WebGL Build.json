@@ -1,7 +1,7 @@
 {
 "companyName": "CSCI-599-Error-By-Night",
-"productName": "CSCI-599-Error-By-Night",
-"productVersion": "2",
+"productName": "Harry Potter themed Endless Runner",
+"productVersion": "0.4",
 "dataUrl": "WebGL Build.data.unityweb",
 "wasmCodeUrl": "WebGL Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL Build.wasm.framework.unityweb",
